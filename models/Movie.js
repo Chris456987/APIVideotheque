@@ -1,45 +1,51 @@
 const movies = [
     {
-      "titre" : "13: Game of Death",
-      "realisateur" : "Chookiat Sakveerakul",
-      "description" : "After losing his job, his car and his money, Phuchit, Krissada Sukosol, races against time to complete 13 tasks ordered by an anonymous caller who promised 100,000,000 Thai Baht upon completion.",
-      "dureeTotale" : 114,
-      "imageUrl" : "13_game_of_death.jpg"
+      "titre" : "Le Grand Bleu",
+      "realisation" : "Luc BESSON",
+      "description" : "Film librement inspiré de la vie de Jacques Mayol, célèbre plongeur en apnée des années 60.",
+      "dureeTotaleMinutes" : 134,
+      "dureeDejaVisionnee" : 134,
+      "imageUrl" : "GrandBleu.png"
     },
     {
-      "titre" : "Alien",
-      "realisateur" : "Ridley Scott",
-      "description" : "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission.",
-      "dureeTotale" : 117,
-      "imageUrl" : "alien.jpg"
+      "titre" : "La Ballade de Narayama",
+      "realisation" : "Shohei IMAMURA",
+      "description" : "Film japonais de Shohei Imamura, adapté d'un nouvelle de Shichiro Fukazawa, expliquant le dernier voyage des anciens devenus une charge pour leur famille vers la montagne de Narayama, afin de rejoindre leurs ancetres.",
+      "dureeTotaleMinutes" : 130,
+      "dureeDejaVisionnee" : 129,
+      "imageUrl" : "BalladeNarayama.png"
     },
     {
-      "titre" : "Magnolia",
-      "realisateur" : "Paul Thomas Anderson",
-      "description" : "An epic mosaic of interrelated characters in search of love, forgiveness and meaning in the San Fernando Valley.",
-      "dureeTotale" : 188,
-      "imageUrl" : "magnolia.jpg"
+      "titre" : "Pluie Noire",
+      "realisation" : "Shohei IMAMURA",
+      "description" : "Film japonais situant l'histoire à Hiroshima le 6/08/1945 au moment de l'éclatement de la bombe nucléaire. Yasuko, l'héroine, part au travail et sera l'une des rescapées de cet enfer. Mais ce dernier ne fait que commencer pour elle.",
+      "dureeTotaleMinutes" : 123,
+      "dureeDejaVisionnee" : 100,
+      "imageUrl" : "PluieNoire.png"
     },
     {
-      "titre" : "Donnie Darko",
-      "realisateur" : "Richard Kelly",
-      "description" : "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes.",
-      "dureeTotale" : 113,
-      "imageUrl" : "donnie_darko.jpg"
+      "titre" : "Pierrot le Fou",
+      "realisation" : "Jean-Luc GODARD",
+      "description" : "Film franco-italien relatant une relation homme-femme empreinte de passion et de violence, le dérapage est inévitable...",
+      "dureeTotaleMinutes" : 115,
+      "dureeDejaVisionnee" : 10,
+      "imageUrl" : "PierrotFou.png"
     },
     {
-      "titre" : "Dobermann",
-      "realisateur" : "Jan Kounen",
-      "description" : "Dobermann is the world's most ruthless bank robber and with his gang rob bank after bank, now in Paris. What can the police do but to let the mad, morally bankrupt police commissioner loose on him?",
-      "dureeTotale" : 94,
-      "imageUrl" : "dobermann.jpg"
+      "titre" : "La Dolce Vita",
+      "realisation" : "Frederico FELLINI",
+      "description" : "Fraichement arrivé à Rome, Marcello reve de devenir écrivain. En attendant, il est simple chroniqueur dans un journal à sensations. A la recherche du scoop, il fait la tournée des lieux branchés de la capitale. C'est ainsi qu'une rencontre va bouleverser le cours de sa vie.",
+      "dureeTotaleMinutes" : 178,
+      "dureeDejaVisionnee" : 70,
+      "imageUrl" : "LaDolceVita.png"
     },
     {
-      "titre" : "Starship Troopers",
-      "realisateur" : "Paul Verhoeven",
-      "description" : "Humans in a fascist, militaristic future wage war with giant alien bugs.",
-      "dureeTotale" : 129,
-      "imageUrl" : "starship_troopers.jpg"
+      "titre" : "Forces Spéciales",
+      "realisation" : "Stéphane RYBOJAD",
+      "description" : "Une journaliste française et son accompagnateur sont retenus prisonniers par les talibans en Afghanistan. Leur exfiltration se passe mal...",
+      "dureeTotaleMinutes" : 95,
+      "dureeDejaVisionnee" : 0,
+      "imageUrl" : "ForcesSpeciales.png"
     }
 ];
 
